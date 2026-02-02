@@ -1,0 +1,4 @@
+{
+  "name": "Page Replacement Algorithm Visualizer",
+  "description": "A visualizer for OS page replacement algorithms (FIFO, LRU, Optimal) with step-by-step simulation and AI-powered analysis."
+}
